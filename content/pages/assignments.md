@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This section provides information on the course assignments, leading
+  class discussions, and the final paper.
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 title: Assignments
 uid: eaee176b-0d2a-80af-959b-66a5756f74ad
 ---

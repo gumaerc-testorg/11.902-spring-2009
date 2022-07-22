@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This syllabus section provides the course description and information
+  on meeting times, objectives, requirements, grading, readings, the course calendar,
+  and a statement on plagiarism.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: 8df37678-2de2-c43c-c530-2bf1920ec724
 ---
@@ -87,7 +92,7 @@ Final paper (or proposal)
 Course Texts
 ------------
 
-This course consists of required and recommended readings. The [readings]({{< baseurl >}}/pages/readings) page contains the readings list.
+This course consists of required and recommended readings. The {{% resource_link a5f8cf96-d67e-7b8c-ee77-0a005783fe8e "readings" %}} page contains the readings list.
 
 MIT Statement on Plagiarism
 ---------------------------
